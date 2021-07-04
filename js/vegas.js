@@ -16,7 +16,7 @@ $(window).load(function() {
             slides: [
                 { src: 'img/pyrolysis-plant.jpg' },
                 { src: 'img/slide-3.jpg' },
-                { src: 'img/slide4.jpg' },
+                { src: 'img/slide-1.jpg' },
             ],
 
             // Delay beetween slides in milliseconds.
